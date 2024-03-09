@@ -34,3 +34,11 @@ Enter your API in config.js ```const API_KEY = 'ENTER YOUR API';```
 </details>
 
 ## More details about technology <a name="more-details"></a>
+As mentioned in general info application is using facade design pattern. File fascade.py includes main menu which allows user for: 
+    1. Encrypt
+    2. Decrypt
+    3. Encrypt from json file
+    4. Decrypt from json file
+    5. Export ciphers from memory to file
+    6. Exit
+As aplication is running all operations are saved in connected database. There is an option to export all records to file. 
