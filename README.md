@@ -14,3 +14,14 @@ Script which allows to encrypt and decyrypt data by using Caesar cipher method. 
 Main purpose of this  script is to encrypt or decrypt text which is provided by user or provided in json file. All operations are collecting in connected database. 
 This simple aplication is created on Facade pattern. 
 </details>
+
+## Technolgies 
+<ul>
+<li>Python</li>
+<li>SQL</li>
+<li>pytest</li>
+</ul>
+
+## Setup
+
+## More details about technology 
