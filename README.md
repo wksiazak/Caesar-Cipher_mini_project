@@ -3,9 +3,9 @@
 Script which allows to encrypt and decyrypt data by using Caesar cipher method. Created in Python. 
 
 ### Table of content 
-* General info
+* [General info](#general-info)
 * Technologies
-* Setup
+* [Setup](#setup)
 * More details about technology
 
 ## General info
@@ -23,11 +23,11 @@ This simple aplication is created on Facade pattern.
 <li>pytest</li>
 </ul>
 
-## Setup
+## Setup <a name="setup"></a>
 <details>
 <summary>Click here to see general information about <b>Setup</b>!</summary>
 <li>Clone the repo</li>
-```git clone https://github.com/your_username_/Project-Name.git```
+```git clone [https://github.com/your_username_/Project-Name](https://github.com/wksiazak/Caesar-Cipher_mini_project).git```
 <li>In the terminal go to directory with repository and run this command</li>
 <li>In the terminal go to directory with repository and run this command</li>
 Enter your API in config.js ```const API_KEY = 'ENTER YOUR API';```
