@@ -11,6 +11,7 @@ Script which allows to encrypt and decyrypt data by using Caesar cipher method. 
 ## General info
 <details>
 <summary>Click here to see general information about <b>Caesar cipher script </b>!</summary>
+
 Main purpose of this  script is to encrypt or decrypt text which is provided by user or provided in json file. All operations are collecting in connected database. 
 This simple aplication is created on Facade pattern. 
 </details>
@@ -23,5 +24,13 @@ This simple aplication is created on Facade pattern.
 </ul>
 
 ## Setup
+<details>
+<summary>Click here to see general information about <b>Setup</b>!</summary>
+<li>Clone the repo</li>
+```git clone https://github.com/your_username_/Project-Name.git```
+<li>In the terminal go to directory with repository and run this command</li>
+<li>In the terminal go to directory with repository and run this command</li>
+Enter your API in config.js ```const API_KEY = 'ENTER YOUR API';```
+</details>
 
 ## More details about technology 
