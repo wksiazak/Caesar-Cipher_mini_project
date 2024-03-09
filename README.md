@@ -4,11 +4,11 @@ Script which allows to encrypt and decyrypt data by using Caesar cipher method. 
 
 ### Table of content 
 * [General info](#general-info)
-* Technologies
+* [Technologies](#technologies)
 * [Setup](#setup)
-* More details about technology
+* [More details about technology](#more-details)
 
-## General info
+## General info <a name="general-info"></a>
 <details>
 <summary>Click here to see general information about <b>Caesar cipher script </b>!</summary>
 
@@ -16,7 +16,7 @@ Main purpose of this  script is to encrypt or decrypt text which is provided by 
 This simple aplication is created on Facade pattern. 
 </details>
 
-## Technolgies 
+## Technolgies <a name="technologies"></a>
 <ul>
 <li>Python</li>
 <li>SQL</li>
@@ -33,4 +33,4 @@ This simple aplication is created on Facade pattern.
 Enter your API in config.js ```const API_KEY = 'ENTER YOUR API';```
 </details>
 
-## More details about technology 
+## More details about technology <a name="more-details"></a>
