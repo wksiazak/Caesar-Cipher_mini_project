@@ -27,18 +27,21 @@ This simple aplication is created on Facade pattern.
 <details>
 <summary>Click here to see general information about <b>Setup</b>!</summary>
 <li>Clone the repo</li>
-```git clone [https://github.com/your_username_/Project-Name](https://github.com/wksiazak/Caesar-Cipher_mini_project).git```
+<code>git clone [https://github.com/your_username_/Project-Name](https://github.com/wksiazak/Caesar-Cipher_mini_project).git</code>
 <li>In the terminal go to directory with repository and run this command</li>
+<code>pip install -r requirements.txt</code>
 <li>In the terminal go to directory with repository and run this command</li>
-Enter your API in config.js ```const API_KEY = 'ENTER YOUR API';```
+<code> python main.py</code>
 </details>
 
 ## More details about technology <a name="more-details"></a>
+<details>
+<summary>Click here to see more about <b>details</b>!</summary>
 As mentioned in general info application is using facade design pattern. File fascade.py includes main menu which allows user for: 
-    1. Encrypt
-    2. Decrypt
-    3. Encrypt from json file
-    4. Decrypt from json file
-    5. Export ciphers from memory to file
-    6. Exit
+    <li>encrypt</li>
+    <li>decrypt</li>
+    <li>encrypt from json file</li>
+    <li>decrypt from json file</li>
+    <li>export ciphers from memory to file</li>
 As aplication is running all operations are saved in connected database. There is an option to export all records to file. 
+</details>
